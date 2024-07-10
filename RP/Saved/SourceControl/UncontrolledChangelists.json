@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/Armor_1.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/Armor_2.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/Armor_3.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/band.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/Band_smallParts.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/body.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/Boots.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/Boots_detail.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/eye_wjjite.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/eyeris.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/hair.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/Hand_bands.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/HandsBands_2.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/metal.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/underShirt.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/Tunic.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/pants.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/Materials/shnurki.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/MainGuy_3_test.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/MainGuy_3_test_PhysicsAsset.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/MainGuy_3_test_Skeleton.uasset",
+				"C:/Users/cegou/Documents/Unreal Projects/RP/Content/RPG_Assets/MainGuy_3_test_Anim.uasset"
+			]
+		}
+	]
+}
